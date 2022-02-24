@@ -33,6 +33,8 @@
 <hr><br>
 <div class="container-sm">  
 <div class="row">
+ 
+ 
 <?php require_once 'views/showposts.php' //вывод постов?>
 </div>
 </div>
