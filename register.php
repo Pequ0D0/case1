@@ -39,6 +39,5 @@
        <button class="btn btn-primary" id="buttonRegUser">Создать аккаунт</button>
     </form>
 </div>
-"f"
 </body>
 </html>
